@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="btnStartExplicit">Start Explicit Activity</string>
+    <string name="btnStartImplicit">Start Implicit Activity</string>
+    <string name="btnShareData">Share data</string>
+    <string name="btnSelectImage">Select Image</string>
+    <string name="etResultTextHint">Enter text here...</string>
+    <string name="btnOKText">Во ред</string>
+    <string name="btnCancelText">Откажи</string>
+</resources>
